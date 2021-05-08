@@ -16,6 +16,13 @@ After cloning the repo and installing npm inquirer, use the command line to navi
     
 ### Screenshots
 
+![questions1](https://user-images.githubusercontent.com/63411329/117542312-28fde980-afe6-11eb-9d0a-d3199b4203f2.png)
+![questions](https://user-images.githubusercontent.com/63411329/117542053-ed165480-afe4-11eb-8d66-89a7e29081d4.png)
+![gen_read](https://user-images.githubusercontent.com/63411329/117542127-5a29ea00-afe5-11eb-9ddc-4a8d1123f49a.png)
+
+
+
+
 ## Built With
 
 * JavaScript
@@ -38,5 +45,7 @@ Visit YouTube `[here](https://drive.google.com/file/d/1krmLHmGiF02WA5DEkPV6xC5Ci
 
 ## Repo for `better-html`
 
-## Author
+https://github.com/bspur11/better-html.git
+
+## Creator
 Brad Spurrell: `https://github.com/bspur11`
