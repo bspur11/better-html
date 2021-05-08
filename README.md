@@ -17,7 +17,7 @@ After cloning the repo and installing npm inquirer, use the command line to navi
 ### Screenshots
 
 ![questions](https://user-images.githubusercontent.com/63411329/117542053-ed165480-afe4-11eb-8d66-89a7e29081d4.png)
-![questions](https://user-images.githubusercontent.com/63411329/117542059-f1427200-afe4-11eb-8c74-456b4be31a42.png)
+
 
 ## Built With
 
