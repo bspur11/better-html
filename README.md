@@ -45,5 +45,7 @@ Visit YouTube `[here](https://drive.google.com/file/d/1krmLHmGiF02WA5DEkPV6xC5Ci
 
 ## Repo for `better-html`
 
-## Author
+https://github.com/bspur11/better-html.git
+
+## Creator
 Brad Spurrell: `https://github.com/bspur11`
